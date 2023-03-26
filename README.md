@@ -6,6 +6,7 @@ This is a tool selection script that allows you to run various tools to perform 
 
 1. Clone this repository: `git clone https://github.com/Royalboy2000/venom.git`
 2. `cd venom`
+3. 'sudo apt-get update && sudo apt-get install figlet'
 
 ## Usage
 
