@@ -1,9 +1,4 @@
 # venom
- _    __
-| |  / /__  ____  ____  ____ ___
-| | / / _ \/ __ \/ __ \/ __ `__ \
-| |/ /  __/ / / / /_/ / / / / / /
-|___/\___/_/ /_/\____/_/ /_/ /_/
 
 This is a tool selection script that allows you to run various tools to perform reconnaissance on a target.
 
